@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     "ENFP",
     "personality compatibility",
   ],
-  metadataBase: new URL("https://personalens.com"),
+  metadataBase: new URL("https://persona-quiz-ecru.vercel.app"),
   openGraph: {
     title: "PersonaLens — Free 16 Personalities Test",
     description: "Discover your personality type with our free, science-based 16 personalities test. No signup required.",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     follow: true,
     googleBot: { index: true, follow: true, "max-snippet": -1, "max-image-preview": "large" },
   },
-  alternates: { canonical: "https://personalens.com" },
+  alternates: { canonical: "https://persona-quiz-ecru.vercel.app" },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

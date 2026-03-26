@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${p.code} Personality Type — ${p.name} (${p.alias}) | Strengths, Careers, Compatibility`,
     description: `Everything about the ${p.code} (${p.name}) personality type: strengths, weaknesses, best careers, compatible types, and famous ${p.code}s. ${p.shortDesc}`,
-    alternates: { canonical: `https://personalens.com/personality/${type.toLowerCase()}/` },
+    alternates: { canonical: `https://persona-quiz-ecru.vercel.app/personality/${type.toLowerCase()}/` },
     openGraph: {
       title: `${p.code} — ${p.name} Personality Type`,
       description: p.shortDesc,

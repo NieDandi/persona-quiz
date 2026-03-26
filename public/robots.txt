@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://personalens.com/sitemap.xml
+Sitemap: https://persona-quiz-ecru.vercel.app/sitemap.xml
 
 User-agent: GPTBot
 Allow: /

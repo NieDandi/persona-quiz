@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "PersonaLens — Free 16 Personalities Test & In-Depth Type Guides",
   description:
     "Take the free 16 personalities test. Discover your type among 16 personality types with detailed guides, compatibility analysis, career advice, and FAQs. No signup required.",
-  alternates: { canonical: "https://personalens.com" },
+  alternates: { canonical: "https://persona-quiz-ecru.vercel.app" },
 };
 
 const groups = [
@@ -20,11 +20,11 @@ export default function HomePage() {
     "@context": "https://schema.org",
     "@type": "WebSite",
     name: "PersonaLens",
-    url: "https://personalens.com",
+    url: "https://persona-quiz-ecru.vercel.app",
     description: "Free 16 personalities test and in-depth personality type guides.",
     potentialAction: {
       "@type": "SearchAction",
-      target: "https://personalens.com/personality/{search_term_string}/",
+      target: "https://persona-quiz-ecru.vercel.app/personality/{search_term_string}/",
       "query-input": "required name=search_term_string",
     },
   };
