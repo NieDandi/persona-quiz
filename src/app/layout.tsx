@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  verification: {
+    google: "PJcW5eG8rYh91D8xg3xmTR2cOAEUjblq-j5wTl4CcDE",
+  },
   title: {
     default: "PersonaLens — Free 16 Personalities Test & In-Depth Type Guides",
     template: "%s | PersonaLens",
