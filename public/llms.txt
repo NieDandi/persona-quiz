@@ -1,0 +1,24 @@
+# PersonaLens — Free 16 Personalities Test & Type Guides
+
+> PersonaLens is a free online personality test platform. Users can take a 60-question personality assessment and receive one of 16 personality types. The site provides in-depth guides for each type including strengths, weaknesses, career advice, and compatibility analysis.
+
+## Available Resources
+
+- [Home](https://personalens.com/): Main page with test overview and all 16 personality types
+- [16 Personalities Test](https://personalens.com/tests/16-personalities/): Free 60-question personality test
+- [INTJ Profile](https://personalens.com/personality/intj/): The Architect personality type
+- [INTP Profile](https://personalens.com/personality/intp/): The Logician personality type
+- [ENTJ Profile](https://personalens.com/personality/entj/): The Commander personality type
+- [ENTP Profile](https://personalens.com/personality/entp/): The Debater personality type
+- [INFJ Profile](https://personalens.com/personality/infj/): The Advocate personality type
+- [INFP Profile](https://personalens.com/personality/infp/): The Mediator personality type
+- [ENFJ Profile](https://personalens.com/personality/enfj/): The Protagonist personality type
+- [ENFP Profile](https://personalens.com/personality/enfp/): The Campaigner personality type
+- [ISTJ Profile](https://personalens.com/personality/istj/): The Logistician personality type
+- [ISFJ Profile](https://personalens.com/personality/isfj/): The Defender personality type
+- [ESTJ Profile](https://personalens.com/personality/estj/): The Executive personality type
+- [ESFJ Profile](https://personalens.com/personality/esfj/): The Consul personality type
+- [ISTP Profile](https://personalens.com/personality/istp/): The Virtuoso personality type
+- [ISFP Profile](https://personalens.com/personality/isfp/): The Adventurer personality type
+- [ESTP Profile](https://personalens.com/personality/estp/): The Entrepreneur personality type
+- [ESFP Profile](https://personalens.com/personality/esfp/): The Entertainer personality type
